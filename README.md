@@ -1,2 +1,2 @@
 # Logistics-VPN
-Create VPNs useful for product logistics.
+Creating ambitious VPNs for autonomous logistics vehicles suited to all conditions.
