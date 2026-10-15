@@ -1,2 +1,2 @@
 # Logistics-VPN
-Creating ambitious VPNs for autonomous logistics vehicles suited to all conditions.
+Creating ambitious VPNs for autonomous logistics vehicles(like ambulances or private jets) suited to all conditions.
